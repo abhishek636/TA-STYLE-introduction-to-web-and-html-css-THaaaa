@@ -1,0 +1,40 @@
+h1 {
+    color: green
+    text-align: center;
+}
+body {
+    background-color: blue
+}
+a {
+    color: red;
+
+    font-size: large
+    
+}
+h2 {
+    color: darkgreen;
+}
+
+h3 {
+font-size: 20px;
+color: white;
+
+}
+title {
+    text-align: center;
+    color: white;
+}
+address {
+    text-align: center;
+    color: white;
+}
+.img-div {
+    text-align: center;
+}
+p {
+    color: white;
+}
+.a-div {
+    text-align: center;
+    background-color: teal;
+}
