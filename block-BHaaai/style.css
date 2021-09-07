@@ -1,40 +1,35 @@
-h1 {
-    color: green
-    text-align: center;
-}
 body {
     background-color: blue
 }
+h1 {
+    color: white;
+}
+h2{
+    color: #31BB66;
+    font-size: 35px;
+}
+h3{
+    font-size:20px ;
+    color: white;
+}
+h4{
+    color: white;
+    font-size: 16px;
+}
+header{
+    text-align: center;
+}
+p{
+    color: white;
+}
+
 a {
     color: red;
-
-    font-size: large
-    
+    font-size: 20px;
+    margin: 20px;
 }
-h2 {
-    color: darkgreen;
-}
-
-h3 {
-font-size: 20px;
-color: white;
-
-}
-title {
+.nav{
     text-align: center;
-    color: white;
-}
-address {
-    text-align: center;
-    color: white;
-}
-.img-div {
-    text-align: center;
-}
-p {
-    color: white;
-}
-.a-div {
-    text-align: center;
-    background-color: teal;
+    background-color: #11244D;
+    padding: 10px ;
 }
