@@ -1,0 +1,23 @@
+body{
+    background-color: #22396A;
+}
+h1{
+    color: #ffffff;
+}
+address{
+    color: white;
+}
+h2{
+    color: #31BB66;
+}
+h3{
+    color: white;
+    font-size: 16px;
+}
+p{
+    color: white;
+}
+a{
+    color: red;
+    margin-right: 20px;
+}
